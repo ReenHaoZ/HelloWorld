@@ -2,12 +2,11 @@ package com.demo;
 
 /**
  * @author zhairenhao
- * @date 2023/10/9 20:26
+ * @date 2023/10/9 20:36
  * @description
  */
-public class HelloWorld {
+public class BugFix {
     public static void main(String[] args) {
-        System.out.println("Hello World!迁出test分支");
-
+        System.out.println("bug fix");
     }
 }
